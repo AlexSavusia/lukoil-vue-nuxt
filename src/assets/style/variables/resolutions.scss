@@ -1,0 +1,10 @@
+// @media #{$desktop} { Style }
+
+$mobile: (max-width: 550px);
+$tablet: (min-width: 768px) and (max-width: 1023px);
+$minTablet: (min-width: 768px);
+$maxTablet: (max-width: 1023px);
+$minLaptop: (min-width: 1024px);
+$maxLaptop: (max-width: 1279px);
+$laptop: (min-width: 1024px) and (max-width: 1279px);
+$desktop: (min-width: 1280px);

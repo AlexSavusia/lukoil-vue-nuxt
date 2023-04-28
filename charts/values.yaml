@@ -1,0 +1,12 @@
+pullPolicy: "Always"
+chart: "lukoil"
+env: ""
+client_site:
+  host: ""
+  name: "lukoil"
+  image: ""
+  port: 80
+
+api:
+  name_service: "lukoil-api-russian"
+  port_service: "5993"
